@@ -41,9 +41,3 @@ Rodar esses comandos no prompt de comando.
 - [x] pip install --upgrade setuptools
 - [x] pip install instapy
 - [x] pip install protobuf==3.6.0 - (Caso dê o problema de DLL)
-
-### Screenshots
-
-![Demonstration](https://github.com/jeffersonvidal/instaBot/blob/master/screenshots/demo.gif?raw=true)
-
-![Screen1](https://github.com/jeffersonvidal/instaBot/blob/master/screenshots/screen1.PNG?raw=true)
