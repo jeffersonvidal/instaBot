@@ -38,9 +38,9 @@ Por meio de curtidas e comentários em fotos e seguindo perfis alvos, vamos dize
 
 Executar os comandos abaixo no prompt de comando ou terminal.
 
-ˋˋˋ 
+~~~
 python -m pip install --upgrade pip
 pip install --upgrade setuptools
 pip install instapy
 pip install protobuf==3.6.0 - (Caso dê o problema de DLL)
-ˋˋˋ
+~~~
