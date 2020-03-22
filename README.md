@@ -20,24 +20,27 @@ Por meio de curtidas e comentários em fotos e seguindo perfis alvos, vamos dize
     - Salve e confirme tudo e pronto;
 
 ### Funcionalidades
-- [x] Localização - interage de acordo a região (cidade) informada;
+- [x] Localização - segue e comenta de acordo a região (cidade) informada;
 - [x] Curtidas e comentários - segue quem comentou e/ou curtiu fotos de um perfil;
-- [x] Feed - interage nas postagens do feed principal do instagram;
-- [x] Hashtags - interage com hashtags definidas por você;
+- [x] Feed - segue e comenta nas postagens do feed principal do instagram;
+- [x] Hashtags - segue e comenta com hashtags definidas por você;
 - [x] Perfis de seguidores - segue seguidores de outros perfis;
 - [x] Parar de seguir perfis;
 
 ### Tecnologias e bibliotecas utilizadas
 
-- [x] Python 3.8.2 - https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
 - [x] InstaPy - https://github.com/timgrossmann/InstaPy
 - [x] Documentação - https://github.com/timgrossmann/InstaPy/blob/master/DOCUMENTATION.md
 
-### Instalação de dependências
+### Instalação
 
-Rodar esses comandos no prompt de comando.
+- [x] Python 3.8.2 - https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
 
-- [x] python -m pip install --upgrade pip
-- [x] pip install --upgrade setuptools
-- [x] pip install instapy
-- [x] pip install protobuf==3.6.0 - (Caso dê o problema de DLL)
+Executar os comandos abaixo no prompt de comando ou terminal.
+
+ˋˋˋ 
+python -m pip install --upgrade pip
+pip install --upgrade setuptools
+pip install instapy
+pip install protobuf==3.6.0 - (Caso dê o problema de DLL)
+ˋˋˋ
