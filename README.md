@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-    Robô criado para engajar e interagir com seguidores e perfis no Instagram.
+    Robô criado para engajar e interagir (curtir e comentar fotos) com seguidores e perfis no Instagram.
 
-    Por meio de curtidas e comentários em fotos e seguindo perfis alvos, vamos dizer para o robô divulgar meu perfil para uma quantidade enorme de usuários e atingir maior engajamento.
+    Por meio de curtidas e comentários em fotos e seguindo perfis alvos, vamos dizer para o  robô divulgar meu perfil para uma quantidade enorme de usuários e atingir maior engajamento.
 </p>
 
 <p align="center">
